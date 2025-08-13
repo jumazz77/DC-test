@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "company": "DC Foresight Financial Services Inc.",
+    "last_updated": "2025-08-13",
+    "currency": "CAD",
+    "nafyc_goal": 350000
+  },
+  "monthly": [
+    {
+      "month": "2025-01-01",
+      "net_wealth_sales": 2200000,
+      "leads_new": 32,
+      "leads_converted": 6,
+      "insurance_premium": 18500,
+      "nafyc_to_date": 18000
+    },
+    {
+      "month": "2025-02-01",
+      "net_wealth_sales": 2550000,
+      "leads_new": 28,
+      "leads_converted": 7,
+      "insurance_premium": 21000,
+      "nafyc_to_date": 36000
+    },
+    {
+      "month": "2025-03-01",
+      "net_wealth_sales": 2810000,
+      "leads_new": 35,
+      "leads_converted": 9,
+      "insurance_premium": 26500,
+      "nafyc_to_date": 57500
+    },
+    {
+      "month": "2025-04-01",
+      "net_wealth_sales": 3050000,
+      "leads_new": 30,
+      "leads_converted": 11,
+      "insurance_premium": 24000,
+      "nafyc_to_date": 76500
+    },
+    {
+      "month": "2025-05-01",
+      "net_wealth_sales": 3330000,
+      "leads_new": 37,
+      "leads_converted": 10,
+      "insurance_premium": 29500,
+      "nafyc_to_date": 101000
+    },
+    {
+      "month": "2025-06-01",
+      "net_wealth_sales": 3620000,
+      "leads_new": 41,
+      "leads_converted": 12,
+      "insurance_premium": 31000,
+      "nafyc_to_date": 127500
+    },
+    {
+      "month": "2025-07-01",
+      "net_wealth_sales": 3910000,
+      "leads_new": 38,
+      "leads_converted": 13,
+      "insurance_premium": 33500,
+      "nafyc_to_date": 155000
+    },
+    {
+      "month": "2025-08-01",
+      "net_wealth_sales": 4190000,
+      "leads_new": 29,
+      "leads_converted": 8,
+      "insurance_premium": 22000,
+      "nafyc_to_date": 177000
+    }
+  ],
+  "funnel": {
+    "Prospecting": 124,
+    "Qualified": 76,
+    "Meeting Scheduled": 48,
+    "Proposal Sent": 22,
+    "Closing": 10
+  }
+}
